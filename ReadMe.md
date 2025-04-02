@@ -1,27 +1,71 @@
-# 💫 About Me:
-## 👋 Hi, I'm Nikhil Agrawal  <br><br>🚀 **Data Scientist** with expertise in **AI/ML, statistical modeling, and business analytics**. Proficient in **Python, R, SQL**, and various data visualization tools. Passionate about transforming data into actionable insights, optimizing decision-making, and building scalable AI-driven solutions.  <br><br>With a background in **entrepreneurship and statistics**, I bridge the gap between **business and technology**. I'm actively exploring roles in **AI, ML, and analytics**, with a focus on **predictive modeling, NLP, and deep learning**.  <br><br>---<br><br>🌟 About Me  <br><br>🔭 **I’m currently working on** AI Agents and their applications in real-world problem-solving.  <br><br>👯 **I’m looking to collaborate on** projects involving AI Agents, automation, and intelligent systems.  <br><br>🌱 **I’m currently learning** Large Language Models (LLMs) and their integration into AI-driven applications.  <br><br>💬 **Ask me about** AI agents, machine learning, and deploying intelligent systems.  <br><br>⚡ **Fun fact:** I once asked an AI to write my bio… now it wants to take over my projects! 😆  <br>
+# 💫 About Me
 
+## 👋 Hi, I'm Nikhil Agrawal  
+🚀 **Data Scientist** with expertise in **AI/ML, statistical modeling, and business analytics**. Skilled in **Python, R, SQL**, and various data visualization tools. Passionate about transforming data into actionable insights, optimizing decision-making, and building scalable AI-driven solutions.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-agrawal-760942128) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19158384/nikhil-agrawal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nmagrawal96) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmagrawal96@gmail.com) 
+With a background in **entrepreneurship and statistics**, I bridge the gap between **business and technology**. I'm actively exploring roles in **AI, ML, and analytics**, with a focus on **predictive modeling, NLP, and deep learning**.  
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nmagrawal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nmagrawal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nmagrawal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
+### 🌟 What I'm Up To:
+- 🔭 **Currently working on** AI Agents and real-world applications.
+- 👯 **Looking to collaborate on** AI-driven automation and intelligent systems.
+- 🌱 **Learning** Large Language Models (LLMs) and AI integration.
+- 💬 **Ask me about** AI Agents, machine learning, and automation.
+- ⚡ **Fun fact:** I once asked an AI to write my bio… now it wants to take over my projects! 😆  
+
+---
+
+## 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-agrawal-760942128)  
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19158384/nikhil-agrawal)  
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/nmagrawal96)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nmagrawal96@gmail.com)  
+
+---
+
+## 💻 Tech Stack:
+
+### 🖥️ Programming & Data Science
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%230074D1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+
+### 🔧 DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
+### 🎨 Web & UI
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats:
+
+| Stats | Streak | Top Languages |
+|---|---|---|
+| ![](https://github-readme-stats.vercel.app/api?username=nmagrawal&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=nmagrawal&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nmagrawal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+
+---
+
+## 🏆 GitHub Achievements:
 ![](https://github-profile-trophy.vercel.app/?username=nmagrawal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Favorite Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=nmagrawal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=nmagrawal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
