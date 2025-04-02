@@ -1,7 +1,7 @@
 ## 💫 About Me
 <img src="image-path-or-URL](https://drive.google.com/file/d/1_YCIM8VoKtpDnzDlPJE989byJH0Nlu05/view?usp=sharing" width="300" alt="Description">
 
-![Alt text]([image-path-or-URL](https://drive.google.com/file/d/1_YCIM8VoKtpDnzDlPJE989byJH0Nlu05/view?usp=sharing))
+![Alt text](https://drive.google.com/file/d/1_YCIM8VoKtpDnzDlPJE989byJH0Nlu05/view?usp=sharing)
 
 ## 👋 Hi, I'm Nikhil Agrawal  
 🚀 **Data Scientist | AI Engineer | Entrepreneur** with expertise in **AI/ML, statistical modeling, and business analytics**. Skilled in **Python, R, SQL**, and various data visualization tools. Passionate about transforming data into actionable insights, optimizing decision-making, and building scalable AI-driven solutions.  
