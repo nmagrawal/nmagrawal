@@ -1,17 +1,28 @@
 # 💫 About Me
 
 ## 👋 Hi, I'm Nikhil Agrawal  
-🚀 **Data Scientist** with expertise in **AI/ML, statistical modeling, and business analytics**. Skilled in **Python, R, SQL**, and various data visualization tools. Passionate about transforming data into actionable insights, optimizing decision-making, and building scalable AI-driven solutions.  
+🚀 **Data Scientist | AI Engineer | Entrepreneur** with expertise in **AI/ML, statistical modeling, and business analytics**. Skilled in **Python, R, SQL**, and various data visualization tools. Passionate about transforming data into actionable insights, optimizing decision-making, and building scalable AI-driven solutions.  
 
-With a background in **entrepreneurship and statistics**, I bridge the gap between **business and technology**. I'm actively exploring roles in **AI, ML, and analytics**, with a focus on **predictive modeling, NLP, and deep learning**.  
+With a strong foundation in **entrepreneurship and statistics**, I bridge the gap between **business and technology**. I am deeply invested in developing **intelligent AI systems**, leveraging cutting-edge technologies to solve real-world challenges.  
+
+I am currently pursuing an **M.S. in Statistics with a concentration in Data Science at Cal State East Bay**, where I focus on **R programming, statistical analysis, and AI-driven solutions**. My coursework emphasizes **machine learning, data visualization, and advanced analytics**.
+
+### 💡 Startup Initiative: Digital Twin for Professionals
+I am working on a **Digital Twin AI** that helps professionals **automate career growth** by integrating:
+- **Public profiles (LinkedIn, GitHub, Medium, etc.)**
+- **Emails & work history** to fine-tune an AI model
+- **LLM-powered career assistant** for resume & cover letter optimization
+- **AI-driven job matching** with company partnerships
+
+The long-term vision includes **AI-based headhunting**, where digital twins interact with hiring managers to streamline the recruitment process.
 
 ---
 
 ### 🌟 What I'm Up To:
 - 🔭 **Currently working on** AI Agents and real-world applications.
-- 👯 **Looking to collaborate on** AI-driven automation and intelligent systems.
-- 🌱 **Learning** Large Language Models (LLMs) and AI integration.
-- 💬 **Ask me about** AI Agents, machine learning, and automation.
+- 👯 **Looking to collaborate on** AI-driven automation, intelligent systems, and machine learning solutions.
+- 🌱 **Learning** Large Language Models (LLMs), AI integration, and API-driven automation.
+- 💬 **Ask me about** AI Agents, CrewAI, API automation, and deploying intelligent systems.
 - ⚡ **Fun fact:** I once asked an AI to write my bio… now it wants to take over my projects! 😆  
 
 ---
@@ -38,6 +49,11 @@ With a background in **entrepreneurship and statistics**, I bridge the gap betwe
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
+### 🤖 AI & Automation
+![CrewAI](https://img.shields.io/badge/CrewAI-%231E90FF.svg?style=for-the-badge&logo=AI&logoColor=white)  
+![APIs](https://img.shields.io/badge/APIs-%2300CC66.svg?style=for-the-badge&logo=API&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 
 ### 🎨 Web & UI
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
@@ -67,5 +83,3 @@ With a background in **entrepreneurship and statistics**, I bridge the gap betwe
 ---
 
 [![](https://visitcount.itsvg.in/api?id=nmagrawal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
