@@ -1,4 +1,6 @@
 ## 💫 About Me
+<img src="image-path-or-URL](https://drive.google.com/file/d/1_YCIM8VoKtpDnzDlPJE989byJH0Nlu05/view?usp=sharing" width="300" alt="Description">
+
 ![Alt text]([image-path-or-URL](https://drive.google.com/file/d/1_YCIM8VoKtpDnzDlPJE989byJH0Nlu05/view?usp=sharing))
 
 ## 👋 Hi, I'm Nikhil Agrawal  
